@@ -175,7 +175,7 @@ Video Cheacking....
 xxx = '''
 Video Extract.....
 '''
-@beast_cmd(pattern=".lalit")
+@catub.cat_cmd(pattern=".tmkoc")
 async def _(event):
  await event.edit("**Uploading Started.....**") 
  await asyncio.sleep(4)
